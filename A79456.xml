@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cheshires successe, since their pious and truly valiant collonell Sr. VVilliam Brereton Barronet, came to their rescue Set forth in 4. chapters; I. The battell at Namptwich, Jan. 28. II. The battell at Torperley, Feb. 21. III. An account how the time was spent since Sir William's first advancing into the county, till the battell at Middlewich. IIII. The memorable battell at Middlewich, March 13. Confirmed by a letter sent from that industrious and faithfull collonell unto his deare friend in London: and a copy of the same unto an Honourable Member of the House of Commons, and by the House ordered to be printed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79456</idno>
+            <idno type="STC">Wing C3784aA</idno>
+            <idno type="STC">ESTC R232693</idno>
+            <idno type="EEBO-CITATION">99900224</idno>
+            <idno type="PROQUEST">99900224</idno>
+            <idno type="VID">135933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2552:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cheshires successe, since their pious and truly valiant collonell Sr. VVilliam Brereton Barronet, came to their rescue Set forth in 4. chapters; I. The battell at Namptwich, Jan. 28. II. The battell at Torperley, Feb. 21. III. An account how the time was spent since Sir William's first advancing into the county, till the battell at Middlewich. IIII. The memorable battell at Middlewich, March 13. Confirmed by a letter sent from that industrious and faithfull collonell unto his deare friend in London: and a copy of the same unto an Honourable Member of the House of Commons, and by the House ordered to be printed.</title>
+               </titleStmt>
+               <extent>[1], 3, 2, 12-13, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>March 27. Printed for Thomas Vnderhill, and [...],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With accounts of military battles in Cheshire, a number of letters, and "A copie of a vvarrant sent abroad in Cheshire, from the chiefe agents for the King in that county, and which should have been put in strict execution, had not the good successe of valiant Sir William Breerton hindered it".</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>The page following p. 3 is numbered 2.</note>
+                  <note>CLU-C copy, reel 2552, is cropped at foot affecting imprint and text.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brereton, William, --  Sir, 1604-1661 --  Early works to 1800.</term>
+               <term>Cheshire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135933:1" rendition="simple:additions"/>
+            <p>CHESHIRES SUCCESSE, Since their Pious and truly Valiant Collonell S<hi rend="sup">r</hi>. William Brereton Barronet, came to their Reſcue.</p>
+            <p>Set forth in 4. Chapters;</p>
+            <list>
+               <item>I. <hi>The Battell at</hi> Namptwich, <hi>Jan.</hi> 28.</item>
+               <item>II. <hi>The Battell at</hi> Torperley, <hi>Feb.</hi> 21.</item>
+               <item>III. <hi>An account how the time was ſpent ſince Sir</hi> William<hi>'s first advancing into the County, till the Battell at</hi> Middlewich.</item>
+               <item>IIII. <hi>The memorable Battell at</hi> Middlewich, <hi>March</hi> 13.</item>
+            </list>
+            <p>Confirmed by a Letter ſent from that Induſtrious and Faithfull Collonell unto his deare Friend in <hi>London:</hi> And a Copy of the ſame unto an Honourable Member of the Houſe of Commons, and by the Houſe <hi>Ordered to be Printed.</hi>
+            </p>
+            <p>Together With a Catalogue of the Names of the chiefe Commanders that were taken Priſoners at the ſaid Battell: which are 1. Baronet, 1. Collonell, 1. Lievtenant Collonell, 2. Sergeant Majors, 9. Captaines, 6. Lievtenants, 4. Enſignes, 2. Corporalls, 1. Quartermaſter, 2. Canoniers, 4 Cornets colours, 400. and odde Priſoners; 2. Braſſe Pieces, 8. Barrells of Gunpowder, <hi>&amp;c.</hi>
+            </p>
+            <p>Whereunto is added a ſtrange Warrant, <hi>&amp;c.</hi> And certain Newes of the great Battell neare <hi>Stafford,</hi> much like <hi>Kyneton</hi> Battell.</p>
+            <p>
+               <hi>LONDON, March</hi> 27. Printed for <hi>Thomas Vnderhill</hi> and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135933:2" rendition="simple:additions"/>
+            <head>Cheshires Succeſs.</head>
+            <div n="1" type="chapter">
+               <head>I. CHAP. <hi>The Battell at</hi> Namptwich.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He well affected in the County of CHESTER having a long time expected Sir <hi>William Brereton</hi> Barronet for their re<g ref="char:EOLhyphen"/>lief (who were miſerably infected by the <hi>Commiſſion of Array</hi>) on Saturday <hi>Ian.</hi> 28. he advanced from <hi>Congleton</hi> in the ſame <hi>County</hi> to <hi>Namptwitch;</hi> but hearing Sir <hi>Thomas-Aſton,</hi> with his Forces intended to take that Towne before him, he ſent a Partie before to ſecure the Towne for himſelfe, who were but few in num<g ref="char:EOLhyphen"/>ber, but came ſeaſonably; Sir <hi>William</hi> advanced after with his Carriages, which he durſt not leave without himſelfe to guard them. Sir <hi>Thomas</hi> underſtanding that a Partie of ours had poſſeſt themſelves of the Towne, he came a<g ref="char:EOLhyphen"/>gainſt it about three of the Clock, was five times valiantly repelled; in which aſ<g ref="char:EOLhyphen"/>ſaults we loſt but one man, ſlaine by a poyſoned Bullet, though the Towne lay o<g ref="char:EOLhyphen"/>pen on all ſides, without any trench or banke: when he ſaw his hopes for that Towne fruſtrate, he retreated, and fell upon Sir <hi>William,</hi> who was not above 150. ſtrong; but Sir <hi>Thomas</hi> had neere 400 Beſides that, he had all other advantages; for hee had firſt ſurvey'd and choſen his ground in a Lane neere the Towne, had made his <hi>Van</hi> ſtrong, flank'd them on either ſide, and there ſtood in <hi>Battalia,</hi> till Sir <hi>William</hi> came, who had no notice of his enemies, but by a Boy who told him of their approach, which cauſed them to order themſelves for an Aſſault, in chance that Newes were true: but they were gotten into the jawes of death before they were aware; for it being darke, neere ſixe of the Clock, they dſcern'd them more by the Enemies whiſ<g ref="char:EOLhyphen"/>pering, than by their one eye: but God to whom the light is all one as the day, was a Pillar of fire unto them, and gave them ſo much light, as ſerv'd to the obtai<g ref="char:EOLhyphen"/>ning of a glorious Victory. Sir <hi>Thomas</hi> let flye, but without ſucceſſe; Sir <hi>William</hi> diſcharged his Drakes which wrought more terror than execution: for the ground was very rough; but the enemy cry'd, Let us flie, for they have great Ordnance. Captaine <hi>Goldegay</hi> diſmounted his Dragoneers, and turn'd his Horſes upon them, which brought them into confuſion, and charg'd upon them very ſore; all the reſt fell to it with their Piſtols Dragoones, and Carbines, but that ſervice was but ſhort,
+<pb n="2" facs="tcp:135933:2" rendition="simple:additions"/>for there was neither time nor place to wheele about, or renew the Charge; then they fell to it by dint of ſword, and weight of their battle-axes, with which they belaboured the Enemy, that the Priſoners confeſſe they never felt the like blowes in any other Service; in a ſhort time ſo many were unhorſt, and beaten downe with violence, that all the worke that remain'd was the taking of Priſoners, Horſes and Armes. Sir <hi>William</hi> who firſt had carried it with brave reſolution, was the firſt that tooke Priſoners; ſeconded by many more who apprehended more than they could ſecure. Sir <hi>Thomas</hi> ſeeing how things went fled (as we heare) on foot three miles, and then got an horſe, on which he fled to <hi>Whitchurch.</hi> Sir <hi>Vincent Corbet</hi> crawled away on all foure, leſt he ſhould be diſcern'd, &amp; then ran on foot bare-headed to <hi>Ower,</hi> 6 miles, many were diſperſt abroad in the Fields, and divers found that next day: one man with a ſtick in his hand diſarm'd three men, and tooke them Priſoners, and two o<g ref="char:EOLhyphen"/>thers that he met with alſo, but two of them ſlipt away, which he durſt not purſue, leſt he ſhould looſe the other three; what number of men we ſlew is uncertaine, but ſome were ſeene dead in the Lane, ſome afterwards were found dead in the fields, and ſome graves were diſcovered: we tooke 110. of their Horſe, and neere 120 Priſoners; amongſt thoſe, Captaine <hi>Bridgeman</hi> and Captaine <hi>Cholmeley,</hi> with other Commanders and Officers, three of ours (as I take it) were ſlaine, and two or three were Priſoners, whom they brought into <hi>Cheſter</hi> with triumph, having made them ſixe in number, by men they had taken up by the high wayes. Sir <hi>Thomas</hi> after ſome dayes returned to <hi>Cheſter,</hi> with about 50. or 60. horſe, but for his honour, they ſent many of their horſes privately out to meet him, and ſo returned as a man well re-in<g ref="char:EOLhyphen"/>forc'd: It's very probable they loſt more horſes than we got, by which ſtroake they were foulely ſhaken, and their friends diſcomfited. We for our part had a ſollemne day of thanksgiving, and fell to the managing of the weighty affaires of the County.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. 2. <hi>The Battell at</hi> TORPERLEY, <hi>Febru.</hi> 21.</head>
+               <p>AFter this, on Tueſday <hi>Feb.</hi> 21. we had a pitcht Battell at <hi>Torperley,</hi> the mid way betwixt <hi>Cheſter</hi> and <hi>Namptwich,</hi> which was thus occaſioned: We ſent forth our Warrants to require all betwixt 60. and 16. yeares old to meet us at <hi>Tor<g ref="char:EOLhyphen"/>perley,</hi> to finde out the ſtrength of the County, and who were for us in caſe we had need of them the enemy took notice of it, and gave it out they would meet us there; we were not ſure of it, becauſe we are not ſure of any thing they ſay or ſweare: yet we went out about 1500. ſtrong, as I take it, to guard the Countrey: They came alſo from <hi>Cheſter,</hi> and were on the ground before us: when we ſurvey'd their poſture, we thought they lay in Ambuſcado a little from the Towne, where 4. wayes meet: we judgeing that place impaſſible, advanced no further, but wheel'd to the right hand to plant on a good ground, neare a place called the Swannes Neſt: but whileſt we were on our March, they got the ground before us, where they ſtood in Battalia. They had all advantages that could be, the Wind cleare and ſtrong, a firme even Soyle, well mounted, a hole towards us where they planted divers Musketiers; layd an Ambuſcado in an hedge, and planted their Ordinance amongſt their Horſe. We Marſhald ours on a Field over againſt them towards <hi>T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſton Hall,</hi> a Valley with a
+<pb n="3" facs="tcp:135933:3" rendition="simple:additions"/>ſtrait paſſage being betwixt us; we had no Ordnance nor could we reach them with our Muskets. They had as faire a marke, as they could deſire, for our Infantrie were at the bottome of the hill, under the command of their Muskets, and our Cavelrie, were on the high ground, the but for their Canon. We ſaluted one another with fire and lead; they playd on us for about the ſpace of an houre, with Canon and Muſ<g ref="char:EOLhyphen"/>ket, yet we loſt not a man, only 3. were ſhot, ſcarce wounded, and an Horſe hoofe hit with a Musket ball out of a Canon, which was a miraculous providence of God in the judgement of all men: Beſides our Forces there, we had about 200. in <hi>Beſton</hi> Ca<g ref="char:EOLhyphen"/>ſtle, which we ſent for to joyne with us, reſerving 30. to keep the Caſtle, which they finding out by their Scouts, ſent two Troops to intercept them, having by treachery gotten their word, they ſaluted them as Friends, gave them the word ſhook hands and the more deluded them by Captaine <hi>Greene,</hi> who was very like a Lievtenant of ours, and whom they had dreſt in an Habite moſt like him: but being within them, they bid them throw downe their Armes, and let the Round-head Rogues try for quarter: whereupon Ours retreated a little, and then gave fire, which ſo a<g ref="char:EOLhyphen"/>maz'd them that both troopes fled: Sir <hi>Thomas</hi> piſtol'd one that for that day bare the Colours, and out Partie report they ſaw divers of theirs fall upon their fiering.</p>
+               <p>The iſſue of that dayes worke was this, we retreated to the Heath to find out a bet<g ref="char:EOLhyphen"/>ter ground, conſidering wee might ſuffer much, but could make no execution on them where we were rallied; new ground was not to be found there, it being a co<g ref="char:EOLhyphen"/>negrew, part of the Army making it a retreate, the reſt followed, not out of feare for our Enemy durſt not meet us on even termes, but to get home before wee were nighted: the Enemy by their Scouts, diſcovered about 700. of our Club-men comming neere them from the Forreſt, and in a good poſture ſuſpected that we wheeled to the left, while the other were ready to charge on the other hand, which ſtruck them with ſuch feare that they fled to <hi>Cheſter,</hi> The Commiſſion of Array ſtaid at the Croſſe in <hi>Torperley,</hi> not daring to come to the Battell, whereby they had the Pre<g ref="char:EOLhyphen"/>cedency in the Fight: thereby <hi>Torperley,</hi> ſcap'd plundering and the Parſonage the ru<g ref="char:EOLhyphen"/>ine threatned; for they ſtay'd not to drinke a draught of Beere, but bad them ſolem nize another day of thankſgiving, ſcoffing at the Ordance, and triumphed in <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> they had got Sir <hi>Williams</hi> hat and feather, a great Trophee, though upon exa<g ref="char:EOLhyphen"/>mination, it was found to be one their owne Souldiers.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> An account how the time was ſpent ſince Sir <hi>Williams</hi> Firſt advanceing into the County till the Battle at <hi>Middlewich.</hi>
+               </head>
+               <p>FOr as much as many are charging us of floath and neglect of the Country, ſith little hath beene done of late in a long time; we ſhall truly relate what things in ſixe or ſeven weeks ſpace have been done, and let others judge.</p>
+               <p>After Sir <hi>William</hi> had poſſeſt himſelfe of <hi>Namptwitch,</hi> his care was to order, en<g ref="char:EOLhyphen"/>large and maintaine his forces, how to bring in the Gentrie to him, who had con<g ref="char:EOLhyphen"/>joyn'd in the late accommodation with the <hi>Commiſſioners</hi> of <hi>Array,</hi> and how to ſecure the Towne, which was extreamely malignant and lay very open: buſineſſe came in on a throng, but the Country came not in to help forward that worke, but by ſpeciall warrant. It hath been found a worke of no ſmall difficultie to perfect that
+<pb n="2" facs="tcp:135933:3" rendition="simple:additions"/>worke begun, what ever others thinke that make their reckning without their hoſte. All were forward for the taking of <hi>Cheſter,</hi> which in all probabillitie had been ſea-ſable, had we ſuddainly called in the Countrie, and gone about it, before they had time to reinforce themſelves, and before their trenches were made, but we knew we could doe little without aſſiſtance, ſo by degrees wee drew in the Gentrie, and many fit to beare Armes, and of ſo ſmall a beginning are enlarged to about 2000. well ap<g ref="char:EOLhyphen"/>pointed, many of theſe being Horſe and Dragoneer's: then we ſet the Propoſition for mony on foot in a very ſtrict way, which hath brought us in many hundreds, much proviſion of Cheeſe, Bacon, Hay, Corne, <hi>&amp;c.</hi> and not a few Horſe, wee have alſo all ſorts of Officers amongſt us, fitting for a Campe, and have brought in Malig<g ref="char:EOLhyphen"/>nants goods from all parts about us: we have taken in <hi>Beſton</hi> Caſtle, where we keep a Gariſone which awes all the Country about, at which our Enemies grinde their teeth, and the walls being in many places leveld to the ground, we have made up all thoſe breaches with mud walls, ſo as we doubt not but to keepe out 20000. men with that ſmall gariſon; we have intrencht all this Towne of <hi>Namptwich</hi> with good workes and Walls ſo as through Gods helpe we feare not, though many thou<g ref="char:EOLhyphen"/>ſands of our enemies encampe againſt us. We have fortified <hi>Northwich</hi> with trenches, Sconces <hi>&amp;c.</hi> for the ſecuritie of all thoſe parts, which have beene much infected by the <hi>Commiſſion</hi> of <hi>Array,</hi> and the Ea: of <hi>Darbies</hi> forces at <hi>Warrington,</hi> and wee have often ſallied out for the clearing of thoſe parts which were moſt in danger. One place above others hath been extreamely aſſaulted: Mr. <hi>Brookes</hi> of <hi>Norton:</hi> a neere Neigh<g ref="char:EOLhyphen"/>bour to the Ea: Rivers, againſt which they brought their Canon, with many Horſe and Foote, and fell to batter it on a Sabboth day: Mr. <hi>Brooke</hi> had 80. men in the houſe, we were carefull he ſhould lack no powder, with all other things, Maſter, <hi>Brooke</hi> furniſht them fully: a man upon his Tower with a Flag in his hand cryde them ayme while they diſcharged their Canon, ſaying, <hi>wide my Lord on the right hand, now wide two yardes on the left, two yardes over my Lord &amp;c.</hi> He made them ſwell for an<g ref="char:EOLhyphen"/>ger, when they could endamage the houſe, for they onely wounded one man, loſt 46. of their owne, and their Canonier, then in diveliſh revenge they burnt a barne, and Corne worth (as is valued) a thouſand pound, ſet fire to another, but more exe<g ref="char:EOLhyphen"/>cution was made on the man that attempted it, than the Barne; for he was blinded in fireing the barne, and ſo found wandering in the fields, and confeſt hee had 5. pound given him for his Service. After this they plundred Mr. <hi>Brookes</hi> Tenants, and returned home with ſhame and hatred of all the Country: to this worthy mans re<g ref="char:EOLhyphen"/>ſcue, we could not goe, becauſe the march was long and full of hazard, and wee thought their ayme was to tire us out upon that ſervice, upon which they might put us almoſt every day, by reaſon of <hi>Halton</hi> Caſtle in their poſſeſſion, and but halfe a mile from <hi>Norton.</hi> More we might inſtance in to take of our reproach, but another Armie greater than ours, lying under the ſame cenſure, will vindicate us, unleſſe ungratefully we condemne them.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IIII.</hi> The Battle at <hi>Middle-wich,</hi> betwixt Collonell <hi>Brereton,</hi> and Sir <hi>Tho: Aſton,</hi> March <hi>13.</hi>
+               </head>
+               <p>SIr <hi>Thomas Aſton</hi> and his partie in <hi>Cheſter,</hi> recovering ſtrength after their late over<g ref="char:EOLhyphen"/>throw, exerciſed the ſame in miſchiefe, and all wicked out-rages, for beſides their plundering and waſting of all the Countrie neere <hi>Cheſter,</hi> they laid ſuch in<g ref="char:EOLhyphen"/>tollerable
+<pb n="12" facs="tcp:135933:4" rendition="simple:additions"/>taxes both on the Citie and Countrie thereabout, that their owne party was inbittered againſt them yea before we ſecured <hi>Northwich,</hi> whiles ſome of our forces were in that Country; they plundered <hi>Weverbam</hi> and the Countrie about, they carried Old men out of their houſes, bound them together, tyed them to a cart, drave them through mire and water, above the knees, ſo brought them to that Dun<g ref="char:EOLhyphen"/>geon, where they lie without fire or light, and now through extremities are ſo diſ<g ref="char:EOLhyphen"/>caſed that they are readie to yield up the Ghoſt.</p>
+               <p>On the Sabboth, <hi>March</hi> 12. having a littie before advanced to <hi>Middlewich,</hi> they plundered all that day, as a moſt proper ſeaſon for it, commanded the Carts in all the Countrie about, to carrie away the goods, kept a Faire that day neere <hi>Torperley,</hi> to ſell thoſe goods: In <hi>Over</hi> when they had plundered they left Ratbane in the houſe wrapt in papers for the Children, which by <hi>Gods</hi> providence was taken from them before they could eate it, after their Parents durſt returne to them; and being a con<g ref="char:EOLhyphen"/>ſiderable body, they ſent for more ſtrength, and by their warrants to the Churches about, commanded all the Countrie to come in with ſuch inſolent, and imperious expreſſions, that they were hatefull to ſome Malignants, and concluded to give no quarter to any Round-heads, and were confident quickly to carry all downe before them.</p>
+               <p>Sir <hi>William</hi> at that time was at <hi>Northwitch</hi> with a conſiderable party, many Gen<g ref="char:EOLhyphen"/>tlemen of his partie were at <hi>Namptwitch,</hi> with about 7. or 800. armed men, their generous ſpirits were inrag'd to ſee ſuch outrages committed, it wrought alike in all Sir <hi>Williams</hi> Forces to provoke us for to fall upon the Enemy, though wee could not eaſily communicate our purpoſes one to another: at <hi>Namptwitch</hi> we agreed to aſſault them the next morning, ſignified the ſame to Sir <hi>Will:</hi> he was as forward as we, our Gent. deſired a Miniſter to come to their chambers upon the Alarum to be given at 12. a clock, that commending them to <hi>God</hi> in prayer they might ſpeed the better, ſome Miniſters and others fell to the worke that day, by prayer and faſting, though not as <hi>Moſes Aaron</hi> and <hi>Hur,</hi> in proſpect of the Armies, yet wreſtling as <hi>Iacob</hi> did, and putting their mouthes in the duſt, if ſo be there might bee hope, of which they had a gracious returne by three a clocke. The buſineſſe of that day was carryed thus: Sir <hi>Will:</hi> being foure miles from the Enemy aſſaulted that ſide of the Towne by 8. a clock, <hi>March</hi> the 13th. and continued the fight for about three or foure houres be<g ref="char:EOLhyphen"/>fore we came to his help: In which time this accident fell our, that his powder was all ſpilt excepting about 7. pound, they tooke Councell upon it, and it was conclu<g ref="char:EOLhyphen"/>ded they muſt retreit, becauſe their partie from <hi>Namptwitch</hi> was not come in to their aſſiſtance, but Sir <hi>William</hi> was reſolute not to retreit, but to ſend to <hi>Northwith</hi> for more powder, and to keep them in play as well as they could till the Powder came, which accordingly they did, betwixt 11. and 12. a clock, we came to their aſſiſtance, which they knew not of till they heard us in hot ſervice, on the other ſide the Town, when we began, their powder came. The Enemy had chief advantages their Ordinace planted; we had none, they layd about 150. Musquetiers in an hole convenient for them, they layd their Ambuskadoes in the hedges, Musquetiers in the Church and ſteeple, and had every way ſo ſtrengthned themſelves, that they ſeemed impregnable: but <hi>God</hi> lead on our men with incredible courage. Captaine <hi>George Booth</hi> fac'd the Towne with his <hi>Troope</hi> whiles they plaid on with their Ordi<g ref="char:EOLhyphen"/>nance, which once grazd before them, and then mounted cleare over them, in ano<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:135933:4" rendition="simple:additions"/>that it daſht the water and mire in his and two other Captaines faces, but there it dies: this was no diſcouragement to our men, they marcht upon their all Ambuſ<g ref="char:EOLhyphen"/>cadoes, drave them all out of them into the Towne, entered the Towne upon the mouth of the Canon, and ſtorme of the muskets, our <hi>Major</hi> (a right <hi>Scottiſh</hi> blade) brought them up in two files with which he lined the Walls, and kept that ſtreet open, went up to their Ordinance, which he tooke, then the Enemy fled into the <hi>Church,</hi> Sir <hi>Thomas Aſton</hi> would have gon after them, but they durſt not let him in, leſt we ſhould enter with him, then he mounted his Horſe, and fled with all ſpeed by <hi>Kinderton,</hi> and divers others with him, for that way onely was open, all the reſt we had ſurrounded, we ſlew divers upon the top of the Steeple, and ſome they ſay within the <hi>Church:</hi> our <hi>Major</hi> with Captaine <hi>Hide</hi> fired the <hi>Church-doore,</hi> and thruſt at them with ſwords as they lookt out of the Windowes, then preſently they cride for quarter, which was granted them: wee tooke Sir <hi>Edward Moſley</hi> Baronet, one <hi>Colonell,</hi> one <hi>Sergeant Major,</hi> eleven <hi>Captaines,</hi> 3. of them <hi>Cheſhire</hi> men, <hi>Captaine Iohn Hurleſton, Cap: Maſſie</hi> of <hi>Cottington,</hi> and <hi>Cap: Starkie,</hi> wee tooke 3. Colours from their <hi>Troops.</hi> Sir <hi>Thomas Aſtons</hi> being one, and about 500. more, many of them Com<g ref="char:EOLhyphen"/>manders, and its probable neere as many are fled to their Houſes, never to returne to that partie againe, we have taken their Ordinance and much povvder, the Soul<g ref="char:EOLhyphen"/>diers tooke much ſpoyle from the priſoners, abundance of Money, for they had con<g ref="char:EOLhyphen"/>verted their plundered ware into <hi>Coyne,</hi> a multitude of Musquets, Buffe <hi>Coates, Scarfes, Swords, Satin Boublets &amp;c.</hi> We loſt 6. men, and about 10. are wounded: wee ſlew of theirs about 30. that we know off, beſides many wounded: our <hi>Gunpowder</hi> by ac<g ref="char:EOLhyphen"/>cident was blovvne up ſo ſoone as we entered the Tovvne, but <hi>God</hi> ſupplied us more then treble out of our Enemies ſtore. Sir <hi>Thomas</hi> is fled that Countrie, the <hi>Array</hi> are in great perplexitie. The tidings of this comming to <hi>Nampwitch,</hi> we turn'd our prayers into prayſes, ſent the <hi>Belman</hi> to warne the Tovvne to the <hi>Church,</hi> to returne <hi>God</hi> thankes for ſuch an unparalel'd mercy, vvhich they did with great alacritie, and joyfull acclamations in a full <hi>Congregation.</hi> Upon Wedneſday after, the <hi>Colonell</hi> with all the <hi>Gentlemen,</hi> Souldiers and the whole Tovvne preſented <hi>God</hi> with ſolemne thanksgiving, vvho hath hitherto crovvned this Countie vvith ſuch glorious victo<g ref="char:EOLhyphen"/>ries.</p>
+               <closer>Not unto us Lord, not unto us, but to thy Name bee all the Glory. For by thy power we have beaten downe ſuch as have riſen up againſt us.</closer>
+            </div>
+         </div>
+         <div type="documents">
+            <div type="letter">
+               <pb facs="tcp:135933:5"/>
+               <head>A Letter from <hi>Sir William Brereton.</hi>
+               </head>
+               <p>THis day is deſervedly ſet apart to be a day of Thanksgiving for that compleat and great Victory which the Lord hath given us on Monday laſt, even then when the enemy came out Armed with power (of fleſh) and reſolution to deſtroy and over-run all the reſt of the Countrey; In which deſigne they were ſo hopefull and confident, as that they tooke the bold<g ref="char:EOLhyphen"/>neſſe to encamp themſelves in <hi>Middlewich,</hi> a Town between <hi>Namptwich</hi> and <hi>Northwich,</hi> where I was, and where we had begun to fortifie and place a Garriſon: we conceived this attempt of moſt dangerous conſequence, and therefore thought fit to allow them no reſt, nor to give them time to Fortifie. To this end, there was a ſtrong party of Horſe went out from <hi>Northwich</hi> upon Saturday night laſt, upon their firſt comming there, who gave them an Alarm. The next day be<g ref="char:EOLhyphen"/>ing the Sabbath, could not be obſerved, it being the worke of the whole day to prepare for our de<g ref="char:EOLhyphen"/>fence, and how to annoy our Enemy; towards whom I went out upon Sunday in the afternoon, with betwixt two and three Troops of Horſe, and betwixt two and three Companies of Dragooners, who went neere to <hi>Middlewich,</hi> and gave them an Alarm there; but without any intention to aſſault them in their Quarters, they being very ſtrong in Foot, and well armed, and we had no Foot at all then there, our greateſt care being to preſerve the Country from Plundring, and let the enemy know we durſt looke them in the face, and come even to the very doore. This evening, <hi>March 12.</hi> being Sunday, we reſolved and concluded to meet the <hi>Namptwich</hi> Forces the next morning, who were appointed to come unto us by ſix of the clock in the morning: But we were in fight neere foure houres before they came in to our aſseſtance; during which time they playd full upon us with their Canon, but without any ſucceſs at all, there being only one or two men hurt, but not mortally. During which time our Muſquetiers (we had not above <hi>200.</hi> our greateſt force of Foot being at <hi>Namptwich</hi>) behaved themſelves very gallantly, and made good three paſſages, and kept the enemy in play, till the <hi>Namptwich</hi> Forces came in to our aſsiſtance, who came on ſo reſolutely, and with ſuch undauntedneſſe of ſpirit, even to the amazement and admiration of the enemy, whom they beat from their works, and from their Cannon, And as they entred one end of the Town, our Souldiers entred the other end with no leſſe courage and reſolution. Colonell <hi>Ellis<g ref="char:punc">▪</g>
+                  </hi> Serjeant Major <hi>Gilner,</hi> Sir <hi>Edward Moſeley,</hi> and ten Captaines more, beſides all other Officers (a Liſt of whoſe Names you ſhall find here incloſed) who betook themſelves to the Church and Steeple, from whence they did much annoy us for ſome ſhort time; but within an houre after, the Lord was pleaſed to make us poſſeſſors of the Church and Steeple, and of the Commanders and Souldiers that were therein; and of their Ordinance, Magazine, and great ſtore of Arms, ſo as I beleeve ſince the be<g ref="char:EOLhyphen"/>ginning of this unnaturall Warre, God hath not given many more compleater Victories, nor hath there been many more Priſoners taken, there being not many fewer than <hi>500</hi> Priſoners, and very many of them commanders and conſiderable perſons. I deſire the whole praiſe and glory may be attributed to Almighty God. who infuſed courage into them that ſtood for his cauſe, and ſtrucke the enemie with terrour and amazement. For farther particulars I muſt referre you to a fuller relation.</p>
+               <p>We heare nothing from <hi>London</hi> how thing goe there, but our confidence is in the Lord of heaven; to the protection of whoſe Providence, I deſire to commend you, and ſo conclude, and Reſt,</p>
+               <closer>
+                  <dateline>
+                     <hi>Namptwich</hi> 
+                     <date>
+                        <hi>15.</hi> March, <hi>1642.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Your— <hi>William Brereton.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:135933:5" rendition="simple:additions"/>
+               <head>Another Letter from a man of Note.</head>
+               <p>SIr, I neede not relate to you the great victory which the Lord hath given us at <hi>Midlewich,</hi> a Reverend Divine in our Army, having ſent up an exact Relation of all our Proceedings ſince our comming into theſe parts; to which Relation I re<g ref="char:EOLhyphen"/>fer you; yet a few great Circumſtances I may not omit: Sir <hi>Tho: Aſton,</hi> Colonell <hi>Leigh</hi> of <hi>Adlington,</hi> and all their Troops of Horſe fled away, or elſe we had taken them, which makes many of the Commanders that we have taken priſoners affirm, that if they were at liberty, they would never fight for Sir <hi>Tho: Aſton</hi> without a pro<g ref="char:EOLhyphen"/>miſe under his hand that he would not run away: nothing vexed them more then that he would not let them know ſo much, that they might have ſhifted for them<g ref="char:EOLhyphen"/>ſelves, as well as he: we loſt five men, and ten were hurt, but not one man killed with their Canons, although they ſhot at us all the while: Collonell <hi>Brereton</hi> car<g ref="char:EOLhyphen"/>rieth himſelfe very gallantly, &amp; I doubt not, by the aſſiſtance of the Lord of Hoſts, he will cleare theſe parts very ſhortly. The Priſoners that we loſt in the battell of <hi>Nampwich</hi> our enemies brought with them from <hi>Cheſter</hi> to <hi>Middlewich,</hi> and ſo we have them again. The ſame morning we ſet upon them, Sir <hi>Tho: Aſton,</hi> and the reſt drank to <hi>Billie Brereton,</hi> as they called him, and ſaid they would give him a Breake<g ref="char:EOLhyphen"/>faſt anon, but ſuch was the good hand of God upon us, that we fared better then they would have had us: Their Word was Prince <hi>Rupert;</hi> Ours, <hi>The Lord of Hoſts:</hi> And ſo you ſee that <hi>The Lord of Hoaſts</hi> overcame Prince <hi>Rupert,</hi> Farewell.</p>
+            </div>
+            <div type="list_of_prisoners">
+               <head>A Catalogue of the Names of thoſe that were taken Pri<g ref="char:EOLhyphen"/>ſoners at the Battell.</head>
+               <list>
+                  <item>ONe Barronet, Sir <hi>Edward Moſely.</hi>
+                  </item>
+                  <item>One Collonell <hi>Ellis.</hi>
+                  </item>
+                  <item>1 Lieftenant Col. <hi>Maſſey</hi> of <hi>Coddington.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head>2 Sergeant Majors</head>
+                        <item>
+                           <hi>Hu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lſtone.</hi>
+                        </item>
+                        <item>
+                           <hi>Gilmore.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Nine Captaines.</head>
+                        <item>Captaine <hi>Corbet.</hi>
+                        </item>
+                        <item>Captaine <hi>Starkey.</hi>
+                        </item>
+                        <item>Captaine <hi>Morris.</hi>
+                        </item>
+                        <item>Captaine <hi>Davenport.</hi>
+                        </item>
+                        <item>Captaine <hi>Iones.</hi>
+                        </item>
+                        <item>Captaine <hi>Horton.</hi>
+                        </item>
+                        <item>Captaine <hi>
+                              <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>on.</hi>
+                        </item>
+                        <item>Captaine <hi>
+                              <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>e.</hi>
+                        </item>
+                        <item>Captaine <hi>Maſon.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Sixe Lievtenants.</head>
+                        <item>Lievtenant <hi>Marvey.</hi>
+                        </item>
+                        <item>Lievtenant <hi>Sherlet.</hi>
+                        </item>
+                        <item>Lievtenant <hi>Hoſevar.</hi>
+                        </item>
+                        <item>Lievtenant <hi>Iennings.</hi>
+                        </item>
+                        <item>Lievtenant <hi>Dod.</hi>
+                        </item>
+                        <item>Lievtenant <hi>Corbet.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Foure Enſignes.</head>
+                        <item>Enſigne <hi>Ward.</hi>
+                        </item>
+                        <item>Enſigne <hi>Proudlove.</hi>
+                        </item>
+                        <item>Enſigne <hi>Morris.</hi>
+                        </item>
+                        <item>Enſigne <hi>Davenport.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2 Corporalls.</item>
+                  <item>1 Quartermaſter.</item>
+                  <item>2 Canoneers.</item>
+                  <item>4 Cornets Colours.</item>
+                  <item>The <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ot Companies had no Colours.</item>
+                  <item>400 and odde Common Souldiers.</item>
+                  <item>2 Braſſe Pieces, all the Enemy had there.</item>
+                  <item>4 Barrells of Powder and as much more which the Souldiers tooke in baggs.</item>
+               </list>
+            </div>
+            <div type="warrant">
+               <pb facs="tcp:135933:6" rendition="simple:additions"/>
+               <head>A Copie of a VVarrant ſent abroad in <hi>Che<g ref="char:EOLhyphen"/>ſhire,</hi> from the chiefe Agents for the King in that County, And which ſhould have been put in ſtrict execution, had not the good ſucceſſe of Valiant Sir <hi>William Breerton</hi> hindered it.</head>
+               <head type="sub">But it will very well ſerve for a Preſident to the contrary Party.</head>
+               <p>VVHereas by the Kings Maieſtie, His Warrant under His Signe Manuall, bearing Date at <hi>Oxford. 28.</hi> day of <hi>Febr.</hi> laſt; where<g ref="char:EOLhyphen"/>by it appeareth that His Maieſty is informed that divers Gentle<g ref="char:EOLhyphen"/>men and Fre-holders of that County are at this time in actuall Rebellion in this County. And that others have abſented themſelves from their houſes, and habita<g ref="char:EOLhyphen"/>tions, and doe aſſiſt the preſent unnaturall Rebellion; We are required and com<g ref="char:EOLhyphen"/>manded to ſeiſe and ſell all the goods, and to ſequeſter, and leaſe out the eſtates of all ſuch perſons as have or ſhall appeare in Rebellion, or having withdrawn themſelves ſhall be any wayes aiding or aſſiſting to the Rebells in any place whatſoever.</p>
+               <p>And Wee are thereby required to imploy the iſſues and profits ariſing out of ſuch perſons goods, and eſtates for advancing His Maieſties ſervice, and the maintenance of the neceſſary charge, of this County and City.</p>
+               <p>Theſe are therefore in purſuance of His Maieſties pleaſure and command, and for the advancement of this ſervice, to publiſh and declare, and ſtrictly to charge and command all perſon and perſons, having in their hands any of the goods and chattels, or in their poſſeſſion any lands of any perſon in Rebellion, or aiding and aſ<g ref="char:EOLhyphen"/>ſiſting to any of the Rebels, to give ſpeedy notice of ſuch goods or lands in their poſ<g ref="char:EOLhyphen"/>ſeſſion, to Sir <hi>Nicholas Byron</hi> the Governour of the City of <hi>Cheſter;</hi> and high Sheriffe of the County, within ſixe dayes after publication thereof.</p>
+               <p>And further to publiſh and declare unto all ſuch perſons as have ſince the firſt of <hi>January</hi> laſt, withdrawne themſelves from their houſes and habitations in the County of <hi>Cheſter,</hi> whereby they have deprived His Maieſties loyall ſubiects, their aide and aſſiſtance for ſuppreſſing the preſent Rebellion; that they and every of them ſhall within ſixe dayes after publication thereof, returne to their reſpective dwellings, and acquaint Sir <hi>Nicholas Byron</hi> of ſuch their returns, or ſhew unto him the cauſe of abſenting themſelves, upon perill of being proceeded againſt, as per<g ref="char:EOLhyphen"/>ſons aiding and aſſiſting the Rebells, according to His Maieſties command afore<g ref="char:EOLhyphen"/>mentioned. And hereof they are to take notice at their perils.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given under Our hands, and the hand of the ſaid Governour of</hi> Cheſter, <date>
+                        <hi>the 8. of</hi> March. <hi>1642.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Rivers. Rob: Kilmurrey. Rob: Cholmley. Tho: Savage. Nic: Byron.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:135933:6" rendition="simple:additions"/>
+               <head>From the Army neere <hi>Stafford.</hi>
+               </head>
+               <p>SInce the Meſſenger was not diſpatched away with that expediti<g ref="char:EOLhyphen"/>on expected when the Letters within were written, I thought good to adde what hath ſince occurred in theſe parts.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon Sunday, March,</hi> 19.</p>
+               <p>We had a Battaile with the Enemy upon <hi>Salt Heath,</hi> neere <hi>Staf<g ref="char:EOLhyphen"/>ford,</hi> wherein we had alſo very good ſucceſſe, our ſtrength then pre<g ref="char:EOLhyphen"/>ſent come in upon that ground, being but ſmall in reſpect of theirs; eſpecially their Horſe, whereof there were (as is conceived) 1000. or 1200. there being the Kings owne Troope, or the Princes, and the Duke of <hi>Yorkes.</hi> On their part was ſlain the Earle of <hi>Northam<g ref="char:EOLhyphen"/>pton,</hi> whoſe body we tooke away with us from the ground, the Kings owne Standard was taken, and the Cornet ſlaine, and 3. or 4. more Colours. We have one of the Earle of <hi>Cheſterfields</hi> Sons priſoner, namely <hi>Fardinando.</hi>
+               </p>
+               <p>Of theirs great ſtore were ſlain, many Cart loads we heare were carryed away, ſure we are that about 60. were found dead in one ditch: We heare ſay we have ſlain many men of note, <hi>Haſtings</hi> is wounded, and we had him, but he overgot us in the Fight; our ene<g ref="char:EOLhyphen"/>mies were valiant fellows, and cauſing our Horſe to retreate upon our Foot, we were afraid they would have diſordered them, and that we ſhould have had the worſt of it, but praiſed be God, our freſh<g ref="char:EOLhyphen"/>water ſouldiers kept their rankes, and fought manfully, cauſed the enemy to retreate, and we kept the field 3. houres after; we have not any one conſiderable man of our ſide killed or hurt. In ſome re<g ref="char:EOLhyphen"/>ſpects this was like <hi>Keinton</hi> Battle.</p>
+               <pb facs="tcp:135933:7"/>
+               <list>
+                  <item>1. They were both upon the Lords day,</item>
+                  <item>2. In regard of the ſuddenneſſe of it.</item>
+                  <item>3. They loſt their Generall then, ſo now.</item>
+                  <item>4. The Kings Standard was taken then, ſo now: (Sir <hi>William Breereton</hi> hath it.)</item>
+               </list>
+               <p>Herein they differ, the enemy had more advantages of us at this fight, then at <hi>Keinton,</hi> they being 2. if not 3. to our one, &amp;c. And in the ſmalneſſe of our loſſe, which was not above 6. or 8. men at the moſt. We are now returned to <hi>
+                     <g ref="char:V">Ʋ</g>ttoxeter,</hi> about 10. miles off <hi>Stafford</hi> to refreſh our ſelves. The Lord be praiſed, I reſt,</p>
+               <closer>
+                  <signed>Yours.</signed> 
+                  <dateline>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ttoxeter,</hi> 
+                     <date>
+                        <hi>March</hi> 20. 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="note">
+               <head>
+                  <hi>Some ſay Maſter</hi> Spencer Lucie <hi>is ſlaine.</hi> VVe loſt two Caſe of Drakes.</head>
+               <p>The Originall of which the Stationer can ſhew any man from a good hand.</p>
+               <p>Maſter <hi>Noble,</hi> and Sir <hi>Edward Littleton</hi> have Letters to reade in the Houſe this Saturday morning, which agree with this Relation.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
